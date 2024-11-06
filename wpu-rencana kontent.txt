@@ -1,5 +1,7 @@
 rencana kontent
 - js
+  * es6
+  * framework js
 -php framewark
 -interview
 -vlog
