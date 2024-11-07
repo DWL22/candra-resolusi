@@ -2,7 +2,9 @@ rencana kontent
 - js
   * es6
   * framework js
--belajar data analys atau data saience
+    ^angular
+    ^react
 -php framewark
+ ^ laravel
 -interview
 -vlog
