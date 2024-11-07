@@ -4,5 +4,6 @@ rencana kontent
   * framework js
 -belajar data analys atau data saience
 -php framewark
+ ^laravel
 -interview
 -vlog
